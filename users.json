@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "salt": "1iCBywfHtcXmNSJ733YsCw==",
+      "iterations": 600000,
+      "wrappedKey": "HEfRWW4gqgNCH8JOj8X/biV0l7EVFhZ6xxpPkTzjq9jAylANDiK/TvjbnkTXYIM8UX2WevBsrbTRKsv4",
+      "createdAt": "2026-11-08T19:45:59.562Z",
+      "role": "admin",
+      "signingPublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEss2WeBAsloONwzzLYR9u+Wgg0PCwdCM8CDTXSGUlwQokthEXdhCVvtgCL5Qnmevga9wu787T+P/tLL4RwlsanQ==",
+      "wrappedSigningKey": "qcW63SBardqm+F5g3HLWvsMaMket5OetFiPO0pjRJR7GqZKv6H/TVA873aLXCEsPAn7nnEEdtCQhgH2jg7OYhrVJLrtPYWajv5EKh12pExsVrKphjI2Su04wolwkEjm0Sdzsl/9lLowlDG2q2kPKKNGGEbqcMVZrbzGDQO8ym0R//DXZE+5W5Ux3ghH6CNY2TAnMcp6AWpFLB+5GYtRKA7ZFiQJ6bw=="
+    },
+    {
+      "username": "stagiaire",
+      "salt": "iMo25g8anYxB6cS7RIOIoA==",
+      "iterations": 600000,
+      "wrappedKey": "sDgSg7++LQE8GKQFI+8jmweTmvZL2S4qcjYz1e2j9mT6IObls8KeneR4LLWmY3GRNzntVE1n3dyW61GF",
+      "createdAt": "2026-11-08T19:48:14.161Z",
+      "role": "testeur",
+      "signingPublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEV0SqwUFlw+HFRfCBLY8Odz9Wr6Ln6HlHxLjDW9eyxgfTLtT6QODD2LjVsu2yIMfDJDLdnuzcN01byr90//2Fkg==",
+      "wrappedSigningKey": "G+W6CRM8UNkS2LzlgHMPyHMnFC7g5zWIbXjFwBHtmi8lsRht2ptdUYzQMJlwaChfK/3BeN1vR8L3M+2h/W545pPO6SocS3l4wLp4xyBeC8b4PqSmGRerg/yU5/jFbBYu92DvqlmNd0Mh9NOfCd11J6eLEcRzGaKZsi1KjtogmaMBcWPYaNC28DJiIMpJal2YZ3aw/bFSJ4VvyyaP6ogT3Da8RKlB6Q=="
+    }
+  ]
+}
